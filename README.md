@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VoidsVoyage
 - 👀 I’m interested in DDLC Modding
 - 🌱 I’m currently learning Renpy
-- 💞️ I’m looking to collaborate on A DDLC Mod Sentient Souls
+- 💞️ I’m looking to collaborate on A DDLC Mod called Sentient Souls!
 - 📫 How to reach me? My discord voids5258!
 
 <!---
